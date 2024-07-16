@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data analyst
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with data analyst and project manager 
-- 📫 You can reach me on emal rawaan.h.aljo@gmail.com
+- 📫 You can reach me on emal rawan.h.aljo@gmail.com
 
 
 <!---
